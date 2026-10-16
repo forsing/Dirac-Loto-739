@@ -30,9 +30,9 @@ import numpy as np
 
 
 DEFAULTS = [
-    "/Users/4c/Desktop/GHQ/data/loto7_4702_k82.csv",
-    "/Users/4c/Desktop/GHQ/data/loto7_4702_k82_loto_2973.csv",
-    "/Users/4c/Desktop/GHQ/data/loto7_4702_k82_loto_plus_1729.csv",
+    "/data/loto7_4702_k82.csv",
+    "/data/loto7_4702_k82_loto_2973.csv",
+    "/data/loto7_4702_k82_loto_plus_1729.csv",
 ]
 
 TRAIN = 192
@@ -887,7 +887,7 @@ Pogodaka 0..7: [13, 28, 16, 6, 1, 0, 0, 0]
 Razlicitih predloga: 49/64; istorijskih: 0/64
 Predloga sa nizom 5+: 0
 Predloga potpuno u jednoj polovini: 0
-NEXT red 4703: 3,4,22,24,25,31,32
+NEXT red 4703: 3,x,22,y,25,z,32
 Postoji u istoriji: False
 Najduzi niz: 2; 1..19: 2
 Sprega nije nadmasila varijantu koja koristi samo stanje.
@@ -911,7 +911,7 @@ Pogodaka 0..7: [12, 28, 16, 5, 3, 0, 0, 0]
 Razlicitih predloga: 41/64; istorijskih: 0/64
 Predloga sa nizom 5+: 0
 Predloga potpuno u jednoj polovini: 0
-NEXT red 2974: 3,5,23,24,25,29,36
+NEXT red 2974: 3,x,23,y,25,z,36
 Postoji u istoriji: False
 Najduzi niz: 3; 1..19: 2
 
@@ -934,7 +934,7 @@ Pogodaka 0..7: [17, 24, 16, 7, 0, 0, 0, 0]
 Razlicitih predloga: 39/64; istorijskih: 0/64
 Predloga sa nizom 5+: 0
 Predloga potpuno u jednoj polovini: 0
-NEXT red 1730: 6,7,8,25,26,34,35
+NEXT red 1730: 6,x,8,y,26,z,35
 Postoji u istoriji: False
 Najduzi niz: 3; 1..19: 3
 Sprega nije nadmasila varijantu koja koristi samo stanje.
